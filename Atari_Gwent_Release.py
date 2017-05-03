@@ -29,7 +29,7 @@ FACTIONS = ['''
 ''']  
 
 directions = ["""Gwent is originally a card game from the Witcher franchise. This version of the game (Atari Gwent) is the game reimagned as a game on the Atari 2600 (and thats totally not an excuse the developer came up with because he didn't know how to implement graphics!)
-                Anyway, here are the rules:
+                Anyways, here are the rules:
                 
                 I. General Rules
                 The game begins with each player randomly drawing 10 cards from their deck, and ends when both players have either both passed or used all of their cards. 
