@@ -1,10 +1,7 @@
 #Atari-Gwent
 #Apologies for the use of both camel case and snake case. 
 #I learned about the cases while working on this project and went with snake case later on because I found out that that was the preferred case with python.
-import sys
-import random
-from random import randint    
-import random
+import random 
 import time
 
 #ph = placeholder
