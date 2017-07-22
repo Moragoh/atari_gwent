@@ -1,5 +1,8 @@
 #Atari-Gwent
-import random  
+import sys
+import random
+from random import randint    
+import random
 import time
 
 #ph = placeholder
